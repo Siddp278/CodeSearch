@@ -1,2 +1,2 @@
 # CodeSearch
-Developing a transformer for code search query tool
+Developing a transformer for article search query tool
